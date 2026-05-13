@@ -11,6 +11,7 @@ dist/
 build/
 *.egg-info/
 .pytest_cache/
+temp_auto_push.bat
 .mypy_cache/
 .ruff_cache/
 node_modules/
@@ -25,3 +26,5 @@ deploy_key.pub
 *.pem
 *.key
 *.tar.gz
+.gitignore
+branch_structure.json
